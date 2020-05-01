@@ -33,3 +33,5 @@ When you run `npm run build` we use the [mini-css-extract-plugin](https://github
 
 
 ![view](./README-image/view.jpg)
+
+view.jpg
